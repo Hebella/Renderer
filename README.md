@@ -16,3 +16,5 @@ This is a software renderer written from scratch with minimal external dependenc
 + Movable camera
 
 ## Screenshots
+
+![Helmet](https://github.com/Hebella/Renderer/blob/master/helmet_result.PNG)

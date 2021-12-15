@@ -14,3 +14,5 @@ This is a software renderer written from scratch with minimal external dependenc
 + Cubemapped skybox
 + Blinn–Phong reflection model
 + Movable camera
+
+## Screenshots

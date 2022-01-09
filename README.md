@@ -18,3 +18,5 @@ This is a software renderer written from scratch with minimal external dependenc
 ## Screenshots
 
 ![Helmet](https://github.com/Hebella/Renderer/blob/master/helmet_result.PNG)
+
+![Diablo3](https://github.com/Hebella/Renderer/blob/master/diablo3%20result.PNG)
